@@ -34,4 +34,7 @@ Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste 
 
  ## Links interessantes:
  [Google](https://www.google.com.br)
+
  Contribuidor: https://github.com/joaocbressane
+
+ [![Imagem Dev <>](img/dev.PNG)](https://github.com/joaocbressane)
