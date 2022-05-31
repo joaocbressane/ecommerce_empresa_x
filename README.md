@@ -25,4 +25,4 @@ Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste 
  3. Sistema de bônus primeira compra
 
  #### Imagem local
- ![Imagem Dev <>](img/dev.png)
+ ![Imagem Dev <>](img/dev.PNG)
