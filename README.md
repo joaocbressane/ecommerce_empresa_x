@@ -2,7 +2,7 @@
 Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste aula)
 
 ## funcionalidades:
- checkout, tela de produto, catálogo, home com banner
+ _checkout, **tela de produto**, catálogo, home com banner_
 
  ###### Melhorias do projeto:
- melhoria 1, melhoria 2, melhoria 3 
+ __melhoria 1__, _melhoria 2, melhoria 3_ 
