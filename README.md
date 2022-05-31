@@ -38,3 +38,13 @@ Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste 
  Contribuidor: https://github.com/joaocbressane
 
  [![Imagem Dev <>](img/dev.PNG)](https://github.com/joaocbressane)
+
+
+
+ ## Código da função soma
+'''javascript
+function soma(a,b){
+   return a + b;
+}
+'''
+
