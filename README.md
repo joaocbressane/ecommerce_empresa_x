@@ -42,9 +42,9 @@ Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste 
 
 
  ## Código da função soma
-''' javascript
+``` javascript
 function soma(a,b){
    return a + b;
 }
-'''
+```
 
