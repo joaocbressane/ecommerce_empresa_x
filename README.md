@@ -23,3 +23,6 @@ Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste 
 
  2. Integração com outros pagamentos
  3. Sistema de bônus primeira compra
+
+ #### Imagem local
+ ![Imagem Dev <>](img/dev.png)
