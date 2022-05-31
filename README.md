@@ -6,3 +6,11 @@ Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste 
 
  ###### Melhorias do projeto:
  __melhoria 1__, _melhoria 2, melhoria 3_ 
+
+
+ ### Linguagens do projeto:
+ * HTML
+ * CSS
+ * JavaScript
+ * PHP
+ * MySQL
