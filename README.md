@@ -30,3 +30,7 @@ Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste 
 
  #### Imagem externa
  ![Imagem logo php](https://pt.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
+
+
+ ## Links interessantes:
+ [Google](https://www.google.com.br)
