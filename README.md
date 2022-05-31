@@ -26,3 +26,7 @@ Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste 
 
  #### Imagem local
  ![Imagem Dev <>](img/dev.PNG)
+
+
+ #### Imagem externa
+ ![Imagem logo php](https://pt.wikipedia.org/wiki/Ficheiro:PHP-logo.svg)
