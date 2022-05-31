@@ -14,3 +14,8 @@ Este é um **e-commerce** para *empresa X*, feito em PHP e MySQL (repo de teste 
  * JavaScript
  * PHP
  * MySQL
+
+ ### Funcionalidades a desenvolver:
+ 1. Área de membros
+ 2. Integração com outros pagamentos
+ 3. Sistema de bônus primeira compra
